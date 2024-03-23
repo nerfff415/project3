@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9cdb1b0bfc588d3408b9c2d4d7ab49b1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - WallObj: {fileID: 1943053933447088, guid: fbac9e553fcbde04a96d0299afb86ec3, type: 2}
+  - HeroObj: {fileID: 1593106658130052, guid: 84f6a44c32866fe48877418be438226b, type: 2}
+  - EmptyObj: {fileID: 1597738032163154, guid: 07f040feee8d65d40a523ebacf2724d7, type: 2}
+  - GreenDoorObj: {fileID: 1424570670554904, guid: 56f96ccf86951cd4ebb0f328197c5367,
+      type: 2}
+  - GreenKeyObj: {fileID: 1616670878910946, guid: f120ccc22ea4f4542a783aeb43685138,
+      type: 2}
+  - BlueDoorObj: {fileID: 1414319054208906, guid: e99f78ea611548d4383ae92206fbbf1e,
+      type: 2}
+  - BlueKeyObj: {fileID: 1320369172673180, guid: e3e32645d48e2dc4d9b2e16294b7fe1c,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
